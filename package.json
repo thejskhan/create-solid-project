@@ -1,6 +1,6 @@
 {
   "name": "create-solid-project",
-  "version": "0.9.8",
+  "version": "1.0.0",
   "description": "A Project Skeleton of Solid Frameworks",
   "bin": {
     "create-solid-project": "./.bin/index.js"
