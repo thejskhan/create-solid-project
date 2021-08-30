@@ -15,7 +15,7 @@ if (process.argv.length < 3) {
 const projectName = process.argv[2];
 const currentPath = process.cwd();
 const projectPath = path.join(currentPath, projectName);
-const templateURI = "https://github.com/thejskhan/solid-project";
+const templateURI = "https://github.com/solid-frameworks/solid-project.git";
 
 try {
   fs.mkdirSync(projectPath);
